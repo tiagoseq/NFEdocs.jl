@@ -39,5 +39,5 @@ SolveOutSto2D
 SolveOutDet1D
 ```
 ```@docs
-NFEStruct.DomainConstruct
+NeuralFieldEq.NFEStruct.DomainConstruct
 ```
