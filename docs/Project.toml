@@ -1,6 +1,6 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NeuralFieldEq = "d4f2cf9b-1959-46fe-97e6-985c98850872"
 
 [compat]
-NeuralFieldEq = "d4f2cf9b-1959-46fe-97e6-985c98850872"
 Documenter = "0.27.10"
