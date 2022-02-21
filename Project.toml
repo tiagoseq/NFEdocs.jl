@@ -3,6 +3,9 @@ uuid = "1dde2aaf-7177-4b0c-ad68-7032f3857151"
 authors = ["tiagoseq <73851660+tiagoseq@users.noreply.github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+NeuralFieldEq = "d4f2cf9b-1959-46fe-97e6-985c98850872"
+
 [compat]
 julia = "1"
 
