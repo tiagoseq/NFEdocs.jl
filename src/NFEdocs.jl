@@ -1,5 +1,5 @@
 module NFEdocs
 
-# Write your package code here.
+# This package is to host NeuralFieldEq docs
 
 end
