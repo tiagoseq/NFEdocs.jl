@@ -7,6 +7,7 @@ version = "0.1.0"
 NeuralFieldEq = "d4f2cf9b-1959-46fe-97e6-985c98850872"
 
 [compat]
+NeuralFieldEq = "0.1"
 julia = "1"
 
 [extras]
